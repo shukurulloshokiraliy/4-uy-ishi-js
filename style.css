@@ -1,0 +1,11 @@
+*{
+    background-color: rgb(270,260,280);
+}
+
+h1{
+    margin: auto;
+    width: 1440px;
+    height: 100px;
+    text-align: center;
+    color: rgb(100,116,139);
+}
